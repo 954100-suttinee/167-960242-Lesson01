@@ -1,4 +1,4 @@
-## [Lesson01](index.md) > Exercise03:
+## [Lesson01](../readme.md) > Exercise03:
 
 Write a program that, given a file of English text, encrypts the passage using a codeword shift.
 The codeword and the names of the input and output files are supplied interactively.

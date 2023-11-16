@@ -1,4 +1,4 @@
-## [Lesson01](index.md) > Exercise02:
+## [Lesson01](../readme.md) > Exercise02:
 
 Applications that require a large amount of data often take input from (or place output to) disk files that do not disappear  when you turn off your computer.
 

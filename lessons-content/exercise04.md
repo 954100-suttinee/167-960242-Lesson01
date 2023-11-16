@@ -1,4 +1,4 @@
-## [Lesson01](index.md) > Exercise04:
+## [Lesson01](../readme.md) > Exercise04:
 
 
 Write a program to calculate the addition of the integers in files two files. Then, the addition is written into a new file.
